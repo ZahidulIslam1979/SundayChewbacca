@@ -8,13 +8,13 @@ public class Variable {
 	
 	public int a = 2;
 	
-	public static String region = "America";
+	public static String region = " NorthAmerica";
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
 	 int b =2;
-				String city = "Nyc";  	
+				String city = "Dhaka";  	
 				System.out.println(region);// Local variable -  variables declared in methods
 				
 				Variable obj = new Variable();
