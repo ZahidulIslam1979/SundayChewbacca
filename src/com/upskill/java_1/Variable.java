@@ -14,7 +14,7 @@ public class Variable {
 		// TODO Auto-generated method stub
 		
 	 int b =2;
-				String city = "Nyc";  	
+				String city = "Dhaka";  	
 				System.out.println(region);// Local variable -  variables declared in methods
 				
 				Variable obj = new Variable();
